@@ -1,0 +1,4 @@
+body { font-family: var(--font-main); font-size: 16px; line-height: 1.5; }
+h1, h2, h3, h4, h5, h6 { line-height: 1.2; font-weight: 700; }
+.hero-title { font-size: clamp(42px, 8vw, 86px); background: var(--gradient-primary); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0 0 30px rgba(255, 20, 147, 0.3); text-align: center; }
+.hero-tagline { font-size: clamp(16px, 4vw, 20px); color: var(--color-text-muted); text-align: center; font-weight: 500; }

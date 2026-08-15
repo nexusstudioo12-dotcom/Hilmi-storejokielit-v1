@@ -1,0 +1,2 @@
+.container { width: 100%; max-width: var(--container-width); margin: 0 auto; padding: 0 var(--spacing-lg); }
+main { position: relative; z-index: var(--z-content); display: flex; flex-direction: column; gap: var(--spacing-xxl); padding: var(--spacing-xxl) 0; min-height: 80vh; }

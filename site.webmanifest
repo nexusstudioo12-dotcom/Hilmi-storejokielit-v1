@@ -1,0 +1,9 @@
+{
+    "name": "HILMI STORE",
+    "short_name": "HILMI STORE",
+    "description": "HILMI STORE — Store & Services",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#120611",
+    "theme_color": "#120611"
+}

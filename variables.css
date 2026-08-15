@@ -1,0 +1,40 @@
+:root {
+    --color-bg-main: #120611;
+    --color-bg-secondary: #21091D;
+    --color-neon-pink: #FF1493;
+    --color-magenta: #FF4FA8;
+    --color-hot-pink: #FF69B4;
+    --color-white: #FFFFFF;
+    --color-text-muted: rgba(255, 255, 255, 0.7);
+    --color-glass-bg: rgba(33, 9, 29, 0.4);
+    --color-glass-border: rgba(255, 20, 147, 0.2);
+    
+    --gradient-primary: linear-gradient(135deg, var(--color-white), var(--color-hot-pink), var(--color-neon-pink));
+    --gradient-button: linear-gradient(90deg, var(--color-neon-pink), var(--color-magenta));
+    
+    --font-main: 'Inter', 'Poppins', 'Plus Jakarta Sans', sans-serif;
+    
+    --spacing-xs: 4px;
+    --spacing-sm: 8px;
+    --spacing-md: 16px;
+    --spacing-lg: 24px;
+    --spacing-xl: 32px;
+    --spacing-xxl: 64px;
+    
+    --radius-sm: 8px;
+    --radius-md: 16px;
+    --radius-lg: 24px;
+    --radius-pill: 50px;
+    
+    --shadow-glass: 0 8px 32px 0 rgba(255, 20, 147, 0.1);
+    --shadow-neon: 0 0 15px rgba(255, 20, 147, 0.5);
+    
+    --transition-fast: 0.2s ease;
+    --transition-normal: 0.3s ease;
+    
+    --container-width: 1180px;
+    --z-background: -2;
+    --z-particles: -1;
+    --z-content: 1;
+    --z-header: 100;
+}

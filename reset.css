@@ -1,0 +1,7 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body { min-height: 100vh; overflow-x: hidden; background-color: var(--color-bg-main); color: var(--color-white); -webkit-font-smoothing: antialiased; }
+img, picture, svg, video { display: block; max-width: 100%; }
+button, input, select, textarea { font: inherit; color: inherit; border: none; background: none; }
+button { cursor: pointer; }
+a { text-decoration: none; color: inherit; }

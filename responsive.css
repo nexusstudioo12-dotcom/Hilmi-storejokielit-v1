@@ -1,0 +1,8 @@
+@media (min-width: 768px) {
+    .services-grid { grid-template-columns: repeat(2, 1fr); }
+    .contact-buttons { flex-direction: row; justify-content: center; }
+}
+@media (min-width: 1024px) {
+    .hero-title { font-size: 86px; }
+    .service-card { padding: var(--spacing-xxl); }
+}

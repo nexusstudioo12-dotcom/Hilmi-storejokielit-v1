@@ -1,0 +1,5 @@
+.btn { display: inline-flex; align-items: center; justify-content: center; gap: var(--spacing-sm); padding: 14px 28px; border-radius: var(--radius-pill); font-weight: 600; font-size: 1rem; transition: var(--transition-normal); text-transform: uppercase; letter-spacing: 1px; }
+.btn-primary { background: var(--gradient-button); color: var(--color-white); box-shadow: 0 4px 15px rgba(255, 20, 147, 0.4); }
+.btn-primary:hover { box-shadow: var(--shadow-neon); transform: translateY(-2px); }
+.btn-secondary { background: var(--color-glass-bg); border: 1px solid var(--color-neon-pink); color: var(--color-white); backdrop-filter: blur(8px); }
+.btn-secondary:hover { background: rgba(255, 20, 147, 0.15); border-color: var(--color-hot-pink); transform: translateY(-2px); }

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hilmi-store04.netlify.app//sitemap.xml
